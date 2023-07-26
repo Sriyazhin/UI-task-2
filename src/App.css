@@ -1,0 +1,203 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+
+.full{
+  height: 100%;
+  background-color: rgb(70, 70, 70);
+}
+.firstdivision{
+background-color: rgb(241, 241, 241);
+display: flex;
+padding-left: 185px;
+position: relative;
+height: 570px;
+}
+.forimage{
+align-items: center;
+width: 550px;
+height: 570px;
+}
+.alterimage{
+  margin-top: 50px;
+}
+.forcontent{
+width: 550px;
+height: 570px;
+margin-left: 40px;
+}
+.contentone{
+  margin-top: 125px;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 3px;
+  height: 45px;
+  padding-left: 4px;
+}
+.contenttwo{
+  font-weight: bold;
+  font-size: 55px;
+  height: 175px;
+}
+.contentthree{
+  font-style: italic;
+  margin-right: 50px;
+  color: rgb(33, 33, 33);
+  padding-left: 3px;
+  height: 100px;
+}
+.contentfour{
+  padding-left: 2px;
+}
+
+.btnone{
+  height: 45px;
+  width: 163px;
+  background-color: rgb(235, 206, 37);
+  border-style: none;
+  
+}
+.linkone{
+  text-decoration: none;
+  color: black;
+  font-weight:bold;
+  font-size: 14px;
+  letter-spacing: 3px;
+}
+.btnone:hover{
+background-color: rgb(207, 184, 50);
+}
+.forcards{
+display: flex;
+padding-left: 175px;
+height: 445px;
+background-color: rgb(241, 241, 241);
+}
+.analysis{
+background-color: #e3b700;
+width: 280px;
+height: 390px;
+margin-bottom: 10px;
+}
+.foricon{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+.cardicon{
+  border-radius: 50%;
+  overflow: hidden;
+}
+.headingone{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 33px;
+  letter-spacing: 2px;
+}
+.contentfive{
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 18px;
+  margin-top: 17px;
+  font-style: italic;
+  line-height: 25px;
+  padding-bottom: 0px;
+}
+.forbutton{
+  display: flex;
+  justify-content: center;
+}
+.btntwo{
+  height: 45px;
+  width: 110px;
+  margin-top: 25px;
+  border-style:none ;
+  
+}
+.linktwo{
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+.btntwo:hover{
+background-color: rgb(223, 222, 222);
+}
+.planning{
+background-color: #f1c50e;
+width: 280px;
+height: 390px;
+}
+.design{
+background-color: #f5d654;
+width: 280px;
+height: 390px;
+}
+.building{
+background-color: #f9e79b;
+width: 280px;
+height: 390px;
+}
+.lastone{
+  text-align: center;
+  padding-top: 45px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.lasttwo{
+  padding-top: 90px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13.5px;
+  color: white;
+}
+#web{
+  color: white;
+}
+#web:hover{
+  text-decoration: none;
+  color: rgb(173, 173, 173);
+}
+.lastdivision{
+  height: 240px;
+}
